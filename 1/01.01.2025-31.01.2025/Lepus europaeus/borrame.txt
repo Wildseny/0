@@ -1,1 +1,0 @@
-fichero de relleno para tener carpetas vacías visibles, borralo cuando vayas a llenar la carpeta
